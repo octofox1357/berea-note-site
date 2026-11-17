@@ -10,9 +10,14 @@ lang: en
 
 BereaNote does not include any Bible text. You import a Bible file that you already have.
 
-This version reads the **EPUB edition of the New World Translation of the Holy Scriptures**, which its publisher offers free of charge at jw.org. These language editions work: Korean, English, Spanish, Portuguese, Italian, French, German and Japanese.
+BereaNote reads Bible EPUB files and tries several layouts automatically. It has been checked with:
 
-Other EPUB files, such as other translations or other books, are laid out differently inside and cannot be read.
+- the **EPUB edition of the New World Translation of the Holy Scriptures**, which its publisher offers free of charge at jw.org (Korean, English, Spanish, Portuguese, Italian, French, German and Japanese editions), and
+- public-domain English Bibles in EPUB form from ebible.org (for example the World English Bible, the Berean Standard Bible and the American Standard Version).
+
+Other Bible EPUB files are read when their layout can be recognized. Book names are matched in the eight languages above, so a Bible in another language may not be recognized. If a file cannot be read, the import screen says what was found and offers **Copy diagnostic info**, which you can include when you write to us. The copied text lists only file names inside the EPUB and counts; it contains no personal data and no Bible text.
+
+Only one Bible can be installed at a time.
 
 ### Getting the file
 
@@ -29,11 +34,11 @@ The import takes a few seconds. The app reads the file once and builds an index 
 
 ### "This file can't be imported"
 
-The file is not one of the editions listed above, or the download was incomplete. Download the EPUB again and retry. If an edition listed above still fails, write to the address below and say which language edition you used.
+The file is not a Bible EPUB whose layout the app can recognize, or the download was incomplete. The message under the button says how many documents were read and how many verses were found. Download the EPUB again and retry. If a Bible you expect to work still fails, tap **Copy diagnostic info** and write to the address below with the text and the name of the edition.
 
 ### "Imported in part"
 
-The app read the file but found fewer than the Bible's 1,189 chapters, so some chapters will be empty. The file is usually a partial edition or an incomplete download. Download the complete EPUB again and choose **Import Again**; the new import replaces the old one.
+The app read the file but found fewer than the Bible's 1,189 chapters, so some chapters will be empty. The file is usually a partial edition or an incomplete download. Download the complete EPUB again and choose **Import Again**. A new file that reads fewer chapters than the Bible already installed is not used; to switch to it anyway, delete the current Bible in Settings first.
 
 ## Trying the app without a Bible
 
