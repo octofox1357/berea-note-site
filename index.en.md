@@ -28,7 +28,7 @@ Notes are stored on your device. There is no account, no advertising, and no ana
 ## Good to know
 
 - BereaNote **does not include any Bible text.** You import a Bible EPUB you already own. Which files work is covered on the [Support page](support.en.html#which-bible-file-can-i-import).
-- **Only iCloud sync is an auto-renewing yearly subscription**, with a 1-month free trial. Everything else is free.
+- **Only iCloud sync is an auto-renewing monthly subscription**, with a 1-month free trial. Everything else is free.
 - Available in English and Korean.
 - Requires iOS 18 or macOS 15.
 

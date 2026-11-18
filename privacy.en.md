@@ -37,7 +37,7 @@ The developer has no access to this data. Apple stores it under Apple's own priv
 
 Locked pages are synced like any other note. The page lock hides a page inside the app; it does not encrypt it.
 
-iCloud sync is offered as an auto-renewing yearly subscription. Apple handles the subscription and payment; the app never receives or stores payment information (card, name or address). If a subscription ends, only syncing pauses and the data on your devices stays.
+iCloud sync is offered as an auto-renewing monthly subscription. Apple handles the subscription and payment; the app never receives or stores payment information (card, name or address). If a subscription ends, only syncing pauses and the data on your devices stays.
 
 Turning sync off leaves your data both on the device and in iCloud, and the copy in iCloud stays there until you delete it. To remove the app's data from iCloud, use **Settings → Danger Zone → iCloud Data → Delete…** (this also turns sync off on your other devices; the data on each device is kept), or remove it in your device's iCloud storage settings.
 
